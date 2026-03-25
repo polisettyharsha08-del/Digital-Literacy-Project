@@ -1,10 +1,9 @@
-<img width="521" height="610" alt="image" src="https://github.com/user-attachments/assets/678433bc-d47e-4eee-b0e6-bfbc6b5fdf98" />
-<img width="536" height="302" alt="image" src="https://github.com/user-attachments/assets/19f0b4c4-4d29-4a1d-8f00-216b7e4b340d" />
+
+<img width="1124" height="746" alt="image" src="https://github.com/user-attachments/assets/8612a25e-5a0a-44dd-b086-d8fff122c51e" />
 
 
-For this assignment, I used Canva to design a single-page infographic titled "Digital Skills for Students." My design provides a comprehensive, quick-reference guide to essential digital competencies by covering five distinct areas on one canvas.
+I made a one-page infographic called "Digital Skills for Students" using Canva for this assignment. My design is a complete, quick-reference guide to the most important digital skills. It covers five different areas on one canvas.
 
-The infographic starts by clearly defining digital literacy. Then, it uses a color-coded layout to categorize specific skills. The blue section highlights useful digital tools for students, such as cloud storage and learning platforms. The green section outlines safe internet practices, emphasizing strong passwords and privacy. The purple section focuses on building a professional online presence, advising students to network respectfully. Finally, a bottom banner provides quick, actionable email etiquette tips, like using clear subject lines and proofreading.
+The infographic starts by giving a clear definition of digital literacy. Then, it sorts certain skills into groups based on colour. The blue part shows students useful digital tools, like cloud storage and online learning platforms. The green section talks about safe online habits, with a focus on privacy and strong passwords. The purple part talks about how to build a professional online presence and tells students to network in a polite way. Finally, a bottom banner gives quick, useful email etiquette tips, such as how to proofread and use clear subject lines.
 
-One thing I found particularly challenging while making this infographic was information hierarchy and spacing. Because the assignment required covering at least three broad topics, my initial ideas felt very text-heavy. It was an interesting design challenge to condense complex ideas—like cybersecurity or professional networking—down to just two or three short bullet points paired with recognizable icons. Using the distinct, color-blocked sections was the key to making the final design visually organized and easy to read at a glance.
-
+One thing that was hard for me while making this infographic was figuring out how to arrange and space the information. My first ideas seemed very text-heavy because the assignment asked me to cover at least three broad topics. It was a fun design challenge to take complicated ideas, like cybersecurity or professional networking, and boil them down to two or three short bullet points with icons that people would recognise. The final design looked neat and was easy to read at a glance because of the different, color-blocked sections.
