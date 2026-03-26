@@ -1,0 +1,5 @@
+<img width="1433" height="843" alt="image" src="https://github.com/user-attachments/assets/0eed4276-1273-4ee2-adcb-ce2c9ccbfd0f" />
+
+Draft of project work report :
+
+This assignment includes the following to develop a body of work in relation to my digital presence, using both academic and professional profiles on GitHub, LinkedIn and ResearchGate. For my technical portfolio I will use my GitHub account to show my coding assignments, as well as to work collaboratively on open-source projects over the next four years. My LinkedIn account will help me to connect with alumni, follow industry leaders, document my educational achievements, and find internships. ResearchGate is a network where you can exchange research and collaborate with your peers, where I will access academic papers, keep up with current research happening in my field of study, and eventually share my undergraduate thesis or research. These three platforms together will provide me with a way to document my growth, connect with both academic and industry professionals, and create a complete digital identity prior to my graduation.
