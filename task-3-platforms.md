@@ -4,3 +4,7 @@ Part A – Coding Practice :
 <img width="1067" height="790" alt="image" src="https://github.com/user-attachments/assets/fb0a6519-ead5-4553-83aa-5dbeec970c2d" />
 <img width="1058" height="808" alt="image" src="https://github.com/user-attachments/assets/980cdf57-7889-4a25-bec9-1f71c95f2931" />
 Part B – Google Workspace Collaboration:
+<img width="962" height="342" alt="image" src="https://github.com/user-attachments/assets/80520394-2e09-4141-ad9d-2c2c5fb6e133" />
+<img width="926" height="578" alt="image" src="https://github.com/user-attachments/assets/1fc7b256-eb43-478b-a5f8-635b60f4b287" />
+<img width="963" height="516" alt="image" src="https://github.com/user-attachments/assets/02f2313b-7f76-4664-bb68-dd108e2e2db0" />
+<img width="948" height="198" alt="image" src="https://github.com/user-attachments/assets/2c02f007-ae18-49a5-a438-14d5bf84fdb1" />
