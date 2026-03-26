@@ -34,6 +34,22 @@ report/
 
 Important Links
 - Digital Literacy Awareness Quiz: https://docs.google.com/forms/d/1dCb4JR2aSvnt6f4XT2np_FTHAm49kAYd6KjZh7XpgQA/edit
-- My LinkedIn Profile: [https://www.linkedin.com/in/harsha-sivarama-kumar-guptha-polisetty-636a5337a/](https://www.linkedin.com/in/harsha-sivarama-kumar-guptha-polisetty-636a5337a/)
+- My LinkedIn Profile: [https://www.linkedin.com/in/harsha-sivarama-kumar-guptha-polisetty-636a5337a/](https://www.linkedin.com/in/harsha-sivarama-kumar-guptha-
+  polisetty-636a5337a/)
+Tools and Platforms Used:
+
+Canva: Designed the Digital Literacy Awareness Infographic.
+
+GitHub: Hosted the project repository and built a developer profile.
+
+LinkedIn: Created a professional networking and career profile.
+
+ResearchGate: Established a profile for academic networking and research tracking.
+
+HackerRank: Practiced programming and earned certificates (Python, Problem Solving).
+
+Google Workspace (Forms & Sheets): Designed the Digital Literacy Awareness Quiz and collected response data.
+
+National Cyber Crime Reporting Portal (cybercrime.gov.in): Researched for the cybersecurity awareness case study.
 
 This repository was created for the academic evaluation of the CSE0001 Digital Literacy course.# Digital-Literacy-Project
