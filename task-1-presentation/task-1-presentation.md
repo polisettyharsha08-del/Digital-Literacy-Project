@@ -2,6 +2,8 @@
 <img width="1124" height="746" alt="image" src="https://github.com/user-attachments/assets/8612a25e-5a0a-44dd-b086-d8fff122c51e" />
 
 
+DESCRIPTION:
+
 I made a one-page infographic called "Digital Skills for Students" using Canva for this assignment. My design is a complete, quick-reference guide to the most important digital skills. It covers five different areas on one canvas.
 
 The infographic starts by giving a clear definition of digital literacy. Then, it sorts certain skills into groups based on colour. The blue part shows students useful digital tools, like cloud storage and online learning platforms. The green section talks about safe online habits, with a focus on privacy and strong passwords. The purple part talks about how to build a professional online presence and tells students to network in a polite way. Finally, a bottom banner gives quick, useful email etiquette tips, such as how to proofread and use clear subject lines.
